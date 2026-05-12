@@ -27,7 +27,7 @@ VisionRunningMode = mp.tasks.vision.RunningMode
 
 # =========================
 # 4. Hand skeleton connections
-# =========================
+# =========================q
 HAND_CONNECTIONS = [
     (0,1),(1,2),(2,3),(3,4),
     (0,5),(5,6),(6,7),(7,8),
